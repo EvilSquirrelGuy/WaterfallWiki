@@ -1,8 +1,12 @@
 | Waterfall Nations wiki | **Home** | [Slimefun](slimefun/index.md) | [Brewery](brewery/index.md) |
-|:-|:-:|:-:|:-:|
+|:---|:-:|:-:|:-:|
 
+<div align="center">
+  
 Welcome to the Waterfall Nations wiki!
 ======================================
+
+</div>
 
 Welcome to the official Waterfall Nations wiki, the No. 1 place to find out anything and everything you need to know about the Waterfall Nations Minecraft server.
 
