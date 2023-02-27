@@ -35,7 +35,7 @@ Will you sail and explore the endless oceans, in search of coral reefs and shipw
 ### [Zelux](zelux.md)
 #### Protectors of the Mountains
 
-Zelux is a nation centred around deep caverns and high peaks. Journey across the land to find towering mountaintops and snowy environments. You could build your base on a ridge, enclosed on all sides by majestic peaks, here, you can call even the most inhospitable environments home.
+Zelux is a nation centred around deep caverns and high peaks. Journey across the land to find towering mountaintops and snowy expanses. You could build a base on a ridge, enclosed on all sides by majestic peaks or in the caverns deep underground, here, you can call even the most inhospitable environments home.
 
 Dive into the dark and gloomy depths of the world to search for the glint of diamonds or tame the almighty warden. Sneak around the cold, icy caverns and let the faint light guide you to riches. You might even come across a spawner or a mineshaft left behind by an ancient civilisation.
 
