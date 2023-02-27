@@ -1,3 +1,6 @@
+| Waterfall Nations wiki | **Home** | [Slimefun](slimefun/index.md) | [Brewery](brewery/index.md) |
+|:-|:-:|:-:|:-:|
+
 Welcome to the Waterfall Nations wiki!
 ======================================
 
