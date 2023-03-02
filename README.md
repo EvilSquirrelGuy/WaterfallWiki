@@ -6,10 +6,10 @@ Wiki for Waterfall Nations (preview)
 
 ## To-do List
 
-- [ ] **Server Introduction**
+- [x] **Server Introduction**
   - [x] Wiki introduction
   - [x] Introduction of each nation
-  - [ ] Dedicated wiki page for each nation
+  - [x] Dedicated wiki page for each nation
 - [ ] **Feature list** (features.md)
   - [ ] Basic list on landing page
   - [ ] General commands for warps and homes
