@@ -14,7 +14,7 @@ Welcome to the official Waterfall Nations wiki, the No. 1 place to find out anyt
 
 ## What is Waterfall Nations?
 
-We are a Minecraft: Java Edition Semi-Vanilla Server network running on **1.19.3** with a couple [gameplay tweaking plugins](#Features) that offer a unique twist. With an active staff team and an awesome community behind it, it's a server you'll want to call home.
+We are a Minecraft: Java Edition Semi-Vanilla Server network running on **1.19.3** with a couple [gameplay tweaking plugins and datapacks](#features) that offer a unique twist. With an active staff team and an awesome community behind it, it's a server you'll want to call home.
 
 The network revolves around three "nations" (hence the Nations in our name), of which you can choose one to become your new home, but choose wisely, because once you've chosen one, there's no switching. Each nation has a separate server and worlds, each with their own lore (should that interest you) and slight world generation differences on a few. We also have a resource server (which resets weekly) so you don't have to destroy the landscape in your own world when you want to acquire large amounts of materials.
 
@@ -45,6 +45,19 @@ Dive into the dark and gloomy depths of the world to search for the glint of dia
 
 But wherever you may go, there will always be a goat watching over and protecting you from afar.
 
-## Features
+## [Features](features.md)
 
-Some of the
+For a comprehensive list of features, please see the [features](features.md) page.
+
+The most notable gameplay changes (be it plugins or datapacks) on the server are:
+- **Resource World** (A bonus world for gathering resources)
+- **Terralith** (World Generation)
+- **Indendium** (World Generation, Minor Gameplay)
+- **Nullscape** (World Generation)
+- **Structory** (Custom Structures)
+- [**Slimefun**](slimefun/index.md) (Major Gameplay)
+- **Safari Nets** (Minor Gameplay)
+- [**Crafting Recipe Tweaks**](features.md#crafting-recipes) (QoL Modifications)
+- **Lands** (Land Claiming)
+- **Basic Teleportation Commands** (Minor Gameplay)
+- Something else i'm probably forgetting (idk)
