@@ -11,7 +11,7 @@ Wiki for Waterfall Nations (preview)
   - [x] Introduction of each nation
   - [x] Dedicated wiki page for each nation
 - [ ] **Feature list** (features.md)
-  - [ ] Basic list on landing page
+  - [x] Basic list on landing page
   - [ ] General commands for warps and homes
   - [ ] List QoL features etc.
 - [ ] **Slimefun**
