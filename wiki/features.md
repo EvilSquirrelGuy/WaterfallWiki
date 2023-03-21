@@ -88,8 +88,33 @@ installed.
 | Command | Description |
 |:- |:- |
 | **`/lands create <land name>`** | Creates a land with the name `<land name>` |
-| **`...`** | ... |
+| **`/lands trust <player name>`** | Sends an invite to `<player name>` to join your land |
+| **`/lands menu`** | Opens the land configuration menu (Chest GUI) |
+| **`/lands edit <land name>`** | Enters edit mode for land with name `<land name>` (if you have permission) |
+| **`/lands selection`** | Allows you to create a selection using the selection tool |
+| `/lands selection expand` | Expands the current selection to take all vertical space (only applies to subareas) |
+| **`/lands claim`** | Claims the current chunk you're standing in or the current selection |
+| **`/lands unclaim`** | Unclaims the chunk the chunk you're standing in or the current selection |
+| `/lands assign` | Assigns the current selection to the specified subarea in your land |
 
-## Basic Teleportation Commands
+## Teleportation Commands
 
-i'll finish this section later
+To make getting around a little easier, the server implements a few teleportation systems, namely homes, warps and tpa.
+There is a limit to how many homes you can set (currently 2).
+
+| Command | Description |
+| :- | :- |
+| **TPA** | |
+| **`/tpa <player name>`** | Sends a teleport request to `<player name>` |
+| | This request can either be accepted using the in chat prompt or: |
+| `/tpaccept` | Accepts the current teleport reqeuest |
+| `/tpdeny` | Denies the current teleport request |
+| **Homes** | |
+| **`/sethome <home name>`** | Creates a home with name `home name`, if it already exists you will be prompted whether you want to overwrite it |
+| **`/home [home name]`** | Teleports to home with specified name (if provided), if multiple homes are set and no name is provided, this opens the same menu as `/homes` |
+| `/homes` | Opens the homes menu (Chest GUI) |
+| `/removehome <home name>` | Deletes a home with specified name |
+| **Warps**| |
+| **`/hub`** | Teleports you to the current world's hub (or spawn) |
+| | **Note:** In the resource world, this opens a menu, to circumvent this and go directly to resource world hub, run **`/warp rwhub`** |
+| **`/resourceworld`** | Teleports you next to the resource world portal in your world |
