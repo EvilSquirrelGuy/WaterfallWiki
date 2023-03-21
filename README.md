@@ -24,3 +24,15 @@ Wiki for Waterfall Nations (preview)
 ## Dae's Totally Good Ideas
   - [ ] List of various server events, like a rough timeline of the server
   - [ ] 
+
+## Stuff Evil Needs to Remember
+
+<details>
+  <summary> Expanding dropdown menu, might be useful </summary>
+  
+  - [ ] This is a test of adding shit into an expanding menu thing
+  
+  ### Look, it's a heading!
+  
+  And this is normal text
+</details>
