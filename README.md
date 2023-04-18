@@ -12,7 +12,7 @@ Wiki for Waterfall Nations (preview)
   - [x] Dedicated wiki page for each nation
 - [ ] **Feature list** (features.md)
   - [x] Basic list on landing page
-  - [ ] General commands for warps and homes
+  - [x] General commands for warps and homes
   - [ ] List QoL features etc.
 - [ ] **Slimefun**
   - TBC
