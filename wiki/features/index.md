@@ -10,6 +10,8 @@ Features
 This article serves as a more comprehensive list of gameplay changing plugins and datapacks installed on the server, please navigate to
 each individual section to find out more about each feature.
 
+## [Resource World](resourceworld.md)
+
 ## [World Generation](worldgen.md)
 
 ## [Slimefun](../slimefun/index.md)
