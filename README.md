@@ -17,6 +17,7 @@ Wiki for Waterfall Nations (preview)
     - [ ] Safari Nets
     - [ ] Recipe list
     - [ ] something else?
+- [ ] **Donator items (& mobs)**
 - [ ] **Slimefun**
   - TBC
 - [ ] **Commands**
