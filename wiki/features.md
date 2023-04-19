@@ -74,7 +74,7 @@ recipes are pretty straightforward too:
 
 ### Special Cases
 
-tttesttset
+Certain mobs have a lower catch chance including: Warden (10%), Wither (10%), Piglin Brute (20%), Elder Guardian (20%), Evoker (30%). This is to make the game a little more exciting and fair.
 
 ## Crafting Recipe Tweaks
 
