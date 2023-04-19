@@ -45,9 +45,9 @@ Dive into the dark and gloomy depths of the world to search for the glint of dia
 
 But wherever you may go, there will always be a goat watching over and protecting you from afar.
 
-## [Features](features.md)
+## [Features](features/index.md)
 
-For a comprehensive list of features, please see the [features](features.md) page.
+For a comprehensive list of features, please see the [features](features/index.md) page.
 
 The most notable gameplay changes (be it plugins or datapacks) on the server are:
 - **Resource World** (A bonus world for gathering resources)
@@ -57,7 +57,7 @@ The most notable gameplay changes (be it plugins or datapacks) on the server are
 - **Structory** (Custom Structures)
 - [**Slimefun**](slimefun/index.md) (Major Gameplay)
 - **Safari Nets** (Minor Gameplay)
-- [**Crafting Recipe Tweaks**](features.md#crafting-recipes) (QoL Modifications)
+- [**Crafting Recipe Tweaks**](features/index.md#crafting-recipes) (QoL Modifications)
 - **Lands** (Land Claiming)
 - **Basic Teleportation Commands** (Minor Gameplay)
 - **Custom Donator Items** (Minor Gameplay)
