@@ -14,10 +14,17 @@ Wiki for Waterfall Nations (preview)
   - [x] Basic list on landing page
   - [x] General commands for warps and homes
   - [ ] List QoL features etc.
+    - [ ] Safari Nets
+    - [ ] Recipe list
+    - [ ] something else?
 - [ ] **Slimefun**
   - TBC
-- [ ] **Lands commands**
-  - TBC
+- [ ] **Commands**
+  - [ ] Lands
+    - [x] basic claiming
+    - [ ] brief walkthrough of the chest ui
+    - [ ] advanced commands (basically just chest ui but *all* in the form of commands
+  - [ ] CMI general access commands
 - [ ] **Brewery recipes & usage**
   - TBC
 
