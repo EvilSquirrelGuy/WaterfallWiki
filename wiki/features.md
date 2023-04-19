@@ -72,6 +72,10 @@ recipes are pretty straightforward too:
 | :-: | :-: |
 | ![Normal Safari Net crafting recipe](null) | ![Reusable Safari Net crafting recipe](null) |
 
+### Special Cases
+
+tttesttset
+
 ## Crafting Recipe Tweaks
 
 We also have a few quality of life crafting recipe tweaks which will make your life a lot easier:
