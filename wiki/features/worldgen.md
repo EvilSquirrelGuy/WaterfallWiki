@@ -1,3 +1,12 @@
+| Waterfall Nations wiki | [Home](../index.md) | **Features** | [Slimefun](../slimefun/index.md) | [Brewery](../brewery/index.md) |
+|:---|:-:|:-:|:-:|:-:|
+
+<div align="center">
+  
+World Generation
+======================================
+</div>
+
 ## Resource World
 
 Resource World is a plugin (or rather a server) which has a world that resets every week, with the sole purpose of being harvested for any
