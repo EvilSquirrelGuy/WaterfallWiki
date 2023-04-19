@@ -60,4 +60,5 @@ The most notable gameplay changes (be it plugins or datapacks) on the server are
 - [**Crafting Recipe Tweaks**](features.md#crafting-recipes) (QoL Modifications)
 - **Lands** (Land Claiming)
 - **Basic Teleportation Commands** (Minor Gameplay)
+- **Custom Donator Items** (Minor Gameplay)
 - Something else i'm probably forgetting (idk)
