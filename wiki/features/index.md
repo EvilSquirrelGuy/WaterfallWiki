@@ -1,5 +1,5 @@
 | Waterfall Nations wiki | [Home](../index.md) | **Features** | [Slimefun](../slimefun/index.md) | [Brewery](../brewery/index.md) |
-|:---|:-:|:-:|:-:|
+|:---|:-:|:-:|:-:|:-:|
 
 <div align="center">
   
